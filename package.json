@@ -1,0 +1,30 @@
+{
+  "name": "koa-demo",
+  "version": "1.0.0",
+  "description": "koa demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guimeisang/koa-demo.git"
+  },
+  "keywords": [
+    "sample",
+    "demo",
+    "of",
+    "koa"
+  ],
+  "author": "guimeisang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guimeisang/koa-demo/issues"
+  },
+  "homepage": "https://github.com/guimeisang/koa-demo#readme",
+  "devDependencies": {
+    "fs": "^0.0.1-security",
+    "koa": "^2.3.0",
+    "koa-route": "^3.2.0"
+  }
+}
